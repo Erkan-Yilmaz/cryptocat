@@ -93,9 +93,9 @@ $('#de').click(function(){
 	$("#td3").html('Cryptocat ist voll mit <a target="_blank" href="https://torproject.org">Tor</a> kompatibel (<a href="http://xdtfje3c46d2dnjd.onion">http://xdtfje3c46d2dnjd.onion</a>) und funktioniert auch auf iPhone, Android oder BlackBerry.');
 	$("#notetext").html('Cryptocat bietet starke Verschlüsselung, aber sorgt nicht alleine für eine starke Sicherheits-Kultur. Wir empfehlen, zur weiteren Erhöhung der Sicherheit <a href="https://chrome.google.com/webstore/detail/gonbigodpnfghidmnphnadhepmbabhij" target="_blank">die Cryptocat-App für Google Chrome</a> zu installieren, und in ernsten Situationen immer verantwortungsvoll zu handeln.');
 	$("#understand").val('Ich verstehe');
-	$("#c").val('name des chatraums');
+	$("#c").val('Name des Chatraums');
 	$("#create").val('betreten');
-	lettersonly = "nur buchstaben und ziffern";
+	lettersonly = "nur Buchstaben und Ziffern";
 });
 $('#eu').click(function(){
 	$("#td1").html("<strong>Cryptocat</strong>-ek elkarrizketa seguruak momentuan eratzea ahalbidetzen du. Facebook-eko txataren moduko zerbitzuen alternatiba pribatu, zifratu eta kode-irekikoa da.");
